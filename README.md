@@ -1,2 +1,0 @@
-# backendData
-sample data storage
